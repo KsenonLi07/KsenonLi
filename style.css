@@ -1,0 +1,13 @@
+* {
+    font-size: 120%;
+    font-family: Verdana, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif,
+    Helvetica, sans-serif;
+    color: #580808;
+}
+a {
+    color: rgb(10, 43, 99);
+}
+
+body  {
+    background-color: bisque;
+}
